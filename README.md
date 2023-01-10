@@ -1,4 +1,4 @@
-# flutter_components
+# Flutter App
 
 A new Flutter project.
 
